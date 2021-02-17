@@ -12,3 +12,5 @@ For SET3, you will need:
 1. yelp_academic_dataset_business.json
 2. yelp_academic_dataset_review.json
 3. yelp_academic_dataset_user.json
+
+IMPORTANT: For the long jupyter notebook outputs, you can toggle scrolling: Cell > Current Outputs > Toggle Scrolling.

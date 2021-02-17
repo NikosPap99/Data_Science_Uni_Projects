@@ -4,11 +4,11 @@
 
 For SET2, you will need:
 
-yelp_academic_dataset_business.json
-yelp_academic_dataset_review.json
+1. yelp_academic_dataset_business.json
+2. yelp_academic_dataset_review.json
 
 For SET3, you will need:
 
-yelp_academic_dataset_business.json
-yelp_academic_dataset_review.json
-yelp_academic_dataset_user.json
+1. yelp_academic_dataset_business.json
+2. yelp_academic_dataset_review.json
+3. yelp_academic_dataset_user.json
